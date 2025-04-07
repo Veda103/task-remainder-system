@@ -1,0 +1,19 @@
+{
+    "name": "task-reminder-system",
+    "version": "1.0.0",
+    "description": "Task Reminder System using JavaScript - handles async reminders, sorting, and task filtering.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "JavaScript",
+      "Async",
+      "Reminders",
+      "Tasks",
+      "setTimeout"
+    ],
+    "author": "Veda",
+    "license": "ISC"
+  }  
